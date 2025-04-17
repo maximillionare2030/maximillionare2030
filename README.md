@@ -6,8 +6,8 @@ I'm a Computer Engineering student passionate about **Developing Applications**.
 📫 Reach me: [Email](mailto:maxtrinh4@gmail.com) | [LinkedIn](https://linkedin.com/in/mtruong4)
 
 ## 🚀 Projects
-- 🔧 [Project 1](https://github.com/Anteater-Electric-Racing/embedded) — Anteater Electric Racing's Embedded Systems Codebase
-- 🧠 [Project 2]([https://github.com/yourname/project2](https://github.com/LDN-Lab/LDN-Coding-Hub)) — UC Irvine's Learning & Decision Neuroscience Current Lab Experiments
+- 🔧 [Kilozott-Embedded-Systems](https://github.com/Anteater-Electric-Racing/embedded) — Anteater Electric Racing's Embedded Systems Codebase
+- 🧠 [LDN-Herding-Game](https://github.com/LDN-Lab/LDN-Coding-Hub) — UC Irvine's Learning & Decision Neuroscience Current Lab Experiments
 
 ## 🛠️ Tech Stack
 `JavaScript` `Python` `Node.js` `React` `Docker` `C/C++`
