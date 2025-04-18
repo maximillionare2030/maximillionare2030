@@ -7,7 +7,7 @@ I'm a Computer Engineering student passionate about **Developing Applications**.
 
 ## 🚀 Projects
 - 🔧 [Kilozott-Embedded-Systems](https://github.com/Anteater-Electric-Racing/embedded) — Anteater Electric Racing's Embedded Systems Codebase
-- 🧠 [LDN-Herding-Game](https://github.com/LDN-Lab/LDN-Coding-Hub) — UC Irvine's Learning & Decision Neuroscience Current Lab Experiments
+- 🧠 [LDN-Herding-Game](https://ldn-herding-game.web.app/) — UC Irvine's Learning & Decision Neuroscience Current Lab Experiments
 
 ## 🛠️ Tech Stack
 `JavaScript` `Python` `Node.js` `React` `Docker` `C/C++`
