@@ -11,5 +11,3 @@ I'm a Computer Engineering student passionate about **Developing Applications**.
 
 ## 🛠️ Tech Stack
 `JavaScript` `Python` `Node.js` `React` `Docker` `C/C++`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximillionare2030&show_icons=true&theme=radical)
